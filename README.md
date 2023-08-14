@@ -1,8 +1,9 @@
-Description
-this project is used to assist in creating a svg logo
+Title 
+OOP-challenge
 
 Description
 this project is used to assist in creating a svg logo
+
 Installation
 na
 
